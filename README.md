@@ -1,5 +1,4 @@
 # Tip Calculator
-# Prework - Tip Calculator
 
 Tip-calculator is a tip calculator application for iOS.
 
@@ -24,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/CjUVsLOh4z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/CjUVsLOh4z.gif' title='Video Walkthrough' alt='Video Walkthrough' height='300' />
 
 ## License
 
