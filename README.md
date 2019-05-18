@@ -1,6 +1,6 @@
 # Tip Calculator
 
-Tip-calculator is a tip calculator application for iOS.
+Tip-Calculator is a tip calculator application for iOS.
 
 Submitted by: Atef Kai Benothman
 
