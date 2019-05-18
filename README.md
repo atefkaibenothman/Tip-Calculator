@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/CjUVsLOh4z.gif' title='Video Walkthrough' alt='Video Walkthrough' height='300' />
+<img src='http://g.recordit.co/CjUVsLOh4z.gif' title='Video Walkthrough' alt='Video Walkthrough' height='400' />
 
 ## License
 
