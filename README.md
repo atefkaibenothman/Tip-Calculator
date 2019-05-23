@@ -2,8 +2,6 @@
 
 Tip-Calculator is a tip calculator application for iOS.
 
-Submitted by: Atef Kai Benothman
-
 Time spent: 3 hour(s) spent in total
 
 ## User Stories
@@ -20,8 +18,6 @@ The following **optional** features are implemented:
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/CjUVsLOh4z.gif' title='Video Walkthrough' alt='Video Walkthrough' height='400' />
 
